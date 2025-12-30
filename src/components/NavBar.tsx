@@ -12,7 +12,7 @@ export default function Navbar() {
         </div>
 
         <a
-  href="/Fadlullah Mohammed Siddiqui (6)-1 (1).pdf"
+  href="/Resume (1).pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="px-4 py-2 rounded-lg bg-primary text-primary-foreground hover:shadow-[0_0_20px_rgba(56,189,248,0.6)] transition-all"
