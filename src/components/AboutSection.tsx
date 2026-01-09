@@ -14,14 +14,10 @@ export default function AboutSection() {
 
           <div className="text-[hsl(var(--muted-foreground))] space-y-4 text-lg leading-relaxed">
             <p>
-              Hello! I'm John, a passionate developer who loves creating things that live on the internet. 
-              My interest in web development started back in 2015 when I decided to try editing custom 
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+             Hello! I’m Fadlullah MS, a passionate developer who enjoys building practical and user-focused web applications. I have hands-on experience with full-stack development and love turning ideas into clean, functional products. I’m always learning, improving my skills, and exploring new technologies to build better solutions.
             </p>
             <p>
-              Fast-forward to today, and I've had the privilege of working at a start-up, a large corporation, 
-              and a student-led design studio. My main focus these days is building accessible, inclusive 
-              products and digital experiences.
+             I’ve gained hands-on experience building real-world projects during my college journey, focusing on full-stack web development. My current focus is creating clean, efficient, and user-friendly applications that solve practical problems.
             </p>
             <p>
               Here are a few technologies I've been working with recently:
