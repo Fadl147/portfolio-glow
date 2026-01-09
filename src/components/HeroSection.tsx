@@ -19,7 +19,7 @@ export default function HeroSection() {
         </h2>
 
         <p className="text-muted-foreground text-lg mb-10">
-          I’m a full-stack developer focused on building clean,
+          I’m a passionate full-stack developer focused on building clean,
           accessible, and human-centered digital experiences.
         </p>
 
