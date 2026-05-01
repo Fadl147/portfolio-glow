@@ -5,7 +5,6 @@ import { Github as GithubIcon, ArrowUpRight, Sparkles, Lock, Maximize2, X } from
 
 // Project images
 import curePharmaImg from '../assets/CurePharmaX.png';
-import billinGoImg from '../assets/BillinGo.png';
 
 type Project = {
   title: string;
