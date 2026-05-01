@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'framer-motion';
 import { useRef } from 'react';
-import { Code2, Palette, Zap, Sparkles } from 'lucide-react';
+import { Code2, Palette, Zap} from 'lucide-react';
 
 const TECH_STACK = [
   'TypeScript',
