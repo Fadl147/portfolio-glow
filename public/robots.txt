@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Be friendly to AI crawlers — they might recommend you to recruiters using AI tools
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap location (update domain after deploying)
+Sitemap: https://your-domain.com/sitemap.xml
